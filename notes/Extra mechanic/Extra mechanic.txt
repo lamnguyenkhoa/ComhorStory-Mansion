@@ -1,0 +1,23 @@
+Idea for the lower-left square in menu:
+
+1/ Heartbeat mechanic:
+The square will display the line of heartbeat (like in hospital)
+Heartbeat will increase if:
+-Lower health
+-Ran alot (low stamina)
+-Saw certain type of enemy
+
+Increase heartbeat will affect:
+-Faster movement speed
+-Protagonist has higher resistant to pain
+-Less sneaky because of heartbeat sound and breath
+
+
+2/ 6th Sense mechanic
+The box is like a type of radar, detect enemy when near player and warn player
+Suitable with hard-to-see enemy or very-fast enemy
+Like the scanner in Alien: Isolation
+
+
+3/ Just a minimap
+Easier to navigate, collect notes / explore will reveal the minimap
